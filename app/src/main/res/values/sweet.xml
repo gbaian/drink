@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sweet">
+        <item>正常甜</item>
+        <item>少糖</item>
+        <item>半糖</item>
+        <item>微糖</item>
+        <item>無糖</item>
+    </array>
+</resources>

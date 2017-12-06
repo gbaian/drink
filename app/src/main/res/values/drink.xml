@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="drink">
+        <item>紅茶</item>
+        <item>綠茶</item>
+        <item>奶茶</item>
+    </array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ice">
+        <item>正常</item>
+        <item>少冰</item>
+        <item>半冰</item>
+        <item>微冰</item>
+        <item>去冰</item>
+    </array>
+</resources>
